@@ -1,0 +1,31 @@
+.jumbotron{
+    color: navy;
+    margin: 20px 145px 20px 145px ;
+    background-color: white;
+}
+
+.card-header{
+    background-color: navy;
+}
+
+
+.btn{
+    background-color: navy;
+}
+
+.card{
+    margin: 20px;
+}
+
+.form-group{
+    padding: 20px;
+}
+
+label{
+    margin-top: 5px;
+}
+
+button {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
